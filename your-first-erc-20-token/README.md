@@ -36,7 +36,7 @@ File name: `SCPDToken.sol`
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract UNMToken {
+contract SCPDToken {
     string public name = "SCPDCoin";
     string public symbol = "SCPD";
     uint8 public decimals = 18;
